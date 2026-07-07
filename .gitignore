@@ -3,7 +3,7 @@ debug
 doc/tags
 foo.*
 lazy-lock.json
-lazy-vim.json
+lazyvim.json
 *.log
 .repro
 .tests
